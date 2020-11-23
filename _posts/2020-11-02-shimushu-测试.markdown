@@ -8,7 +8,7 @@ tag: [Travel, Blogging, Mountains, 测试的标签]
 ---
 感觉不是很理想
 
-<iframe allowfullscreen="true" src="https://xbeibeix.com/api/bilibili/biliplayer/?url=https://www.bilibili.com/video/BV1Hh411R7kX" width="720" height="405" />
+<iframe allowfullscreen="true" src="https://xbeibeix.com/api/bilibili/biliplayer/?url=https://www.bilibili.com/video/BV1Hh411R7kX" width="720" height="405">
 
 上面应该有一个视频
 
